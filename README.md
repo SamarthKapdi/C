@@ -1,4 +1,4 @@
-# C Tutorial Programs
+# C  Programs
 
 This repository contains a comprehensive set of simple, human-friendly C programs covering all major topics for beginners. Each program is well-commented and designed to help you learn C programming step by step.
 
